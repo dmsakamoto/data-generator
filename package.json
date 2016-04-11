@@ -1,0 +1,28 @@
+{
+  "name": "data-generator",
+  "version": "0.0.1",
+  "description": "Generates JSON files with random data for rapid prototyping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmsakamoto/data-generator.git"
+  },
+  "keywords": [
+    "data",
+    "generator",
+    "prototype",
+    "prototyping"
+  ],
+  "author": "Derek Sakamoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmsakamoto/data-generator/issues"
+  },
+  "homepage": "https://github.com/dmsakamoto/data-generator#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
